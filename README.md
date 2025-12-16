@@ -1,4 +1,4 @@
-# Deep Learning Ex2
+# Deep Learning Ex1
 
 ## Data Setup
 Before running the code, please ensure you extract the following archives:
